@@ -2,9 +2,9 @@ Searching 31 files for "VOYAGER"
 
 /Users/xfc/Downloads/GitHub/fuchengking.github.io/index.html:
     3  layout: default
-    4  crawlertitle: "Jekyll blog"
-    5: title: "Voyager"
-    6  summary: "main page"
+    4  crawlertitle: "fuchengking-Blog"
+    5: title: "fuchengking-Blog"
+    6  summary: "行百步者，多九十"
     7  ---
 
 /Users/xfc/Downloads/GitHub/fuchengking.github.io/README.md:
