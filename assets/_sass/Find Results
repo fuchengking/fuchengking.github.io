@@ -1,0 +1,29 @@
+Searching 31 files for "VOYAGER"
+
+/Users/xfc/Downloads/GitHub/fuchengking.github.io/index.html:
+    3  layout: default
+    4  crawlertitle: "Jekyll blog"
+    5: title: "Voyager"
+    6  summary: "main page"
+    7  ---
+
+/Users/xfc/Downloads/GitHub/fuchengking.github.io/README.md:
+    1: ## Voyager
+    2  
+    3: Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
+    4  
+    5  ### Feathures:
+
+3 matches across 2 files
+
+
+Searching 31 files for "Posts about jekyll"
+
+/Users/xfc/Downloads/GitHub/fuchengking.github.io/archive.md:
+    5  title: "Archive"
+    6  crawlertitle: "All articles"
+    7: summary: "Posts about jekyll"
+    8  active: archive
+    9  ---
+
+1 match in 1 file
